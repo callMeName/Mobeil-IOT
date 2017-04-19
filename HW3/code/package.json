@@ -1,0 +1,21 @@
+{
+  "name": "buzzler",
+  "version": "1.0.0",
+  "description": "A Web of Things server for the Pi",
+  "main": "app.js",
+  "author": "Yuhao-Xu",
+  "license": "Apache-2.0",
+  "keywords": [
+    "web of things",
+    "building the web of things",
+    "wot",
+    "REST",
+    "HTTP",
+    "pi",
+    "iot"
+  ],
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.12.4"
+  }
+}
